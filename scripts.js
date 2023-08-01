@@ -100,6 +100,102 @@ pannellum.viewer('panorama', {
                 },
                 
             ]
-        }
+        },
+        "foto1": {
+            "title": "Escaleras Primer Piso",
+            "hfov": 110,
+            "pitch": -3,
+            "yaw": 117,
+            "type": "equirectangular",
+            "panorama": "fotos360/foto4.JPG",
+            "hotSpots": [
+                {
+                    "pitch": -4.6,
+                    "yaw": 174.7,
+                    "type": "scene",
+                    "text": "Lobby",
+                    "sceneId": ""
+                },
+                {
+                    "pitch": -9.6,
+                    "yaw": -62.1,
+                    "type": "info",
+                    "text": "NADA"
+                },
+                
+            ]
+        },
+        "foto2": {
+            "title": "Escaleras Primer Piso",
+            "hfov": 110,
+            "pitch": -3,
+            "yaw": 117,
+            "type": "equirectangular",
+            "panorama": "fotos360/foto4.JPG",
+            "hotSpots": [
+                {
+                    "pitch": -4.6,
+                    "yaw": 174.7,
+                    "type": "scene",
+                    "text": "Lobby",
+                    "sceneId": ""
+                },
+                {
+                    "pitch": -9.6,
+                    "yaw": -62.1,
+                    "type": "info",
+                    "text": "NADA"
+                },
+                
+            ]
+        },
+        "foto3": {
+            "title": "Escaleras Primer Piso",
+            "hfov": 110,
+            "pitch": -3,
+            "yaw": 117,
+            "type": "equirectangular",
+            "panorama": "fotos360/foto4.JPG",
+            "hotSpots": [
+                {
+                    "pitch": -4.6,
+                    "yaw": 174.7,
+                    "type": "scene",
+                    "text": "Lobby",
+                    "sceneId": ""
+                },
+                {
+                    "pitch": -9.6,
+                    "yaw": -62.1,
+                    "type": "info",
+                    "text": "NADA"
+                },
+                
+            ]
+        },
+        "foto4": {
+            "title": "Escaleras Primer Piso",
+            "hfov": 110,
+            "pitch": -3,
+            "yaw": 117,
+            "type": "equirectangular",
+            "panorama": "fotos360/foto4.JPG",
+            "hotSpots": [
+                {
+                    "pitch": -4.6,
+                    "yaw": 174.7,
+                    "type": "scene",
+                    "text": "Lobby",
+                    "sceneId": ""
+                },
+                {
+                    "pitch": -9.6,
+                    "yaw": -62.1,
+                    "type": "info",
+                    "text": "NADA"
+                },
+                
+            ]
+        },
     }
 });
