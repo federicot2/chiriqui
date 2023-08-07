@@ -12,7 +12,7 @@ pannellum.viewer('panorama', {
             "pitch": -3,
             "yaw": 117,
             "type": "equirectangular",
-            "panorama": "fotos360/R0010042_20220505112732.JPG",
+            "panorama": "comprimidas/R0010042_20220505112732.jpg",
             "hotSpots": [
                 {
                     "pitch": -3.7,
@@ -29,7 +29,7 @@ pannellum.viewer('panorama', {
             "hfov": 110,
             "yaw": 5,
             "type": "equirectangular",
-            "panorama": "fotos360/R0010043_20220505112828.JPG",
+            "panorama": "comprimidas/R0010043_20220505112828.jpg",
             "hotSpots": [
                 {
                     "pitch": -2.4,
@@ -53,7 +53,7 @@ pannellum.viewer('panorama', {
             "pitch": -3,
             "yaw": 117,
             "type": "equirectangular",
-            "panorama": "fotos360/R0010045_20220505113000.JPG",
+            "panorama": "comprimidas/R0010045_20220505113000.jpg",
             "hotSpots": [
                 {
                     "pitch": -4.6,
@@ -77,7 +77,7 @@ pannellum.viewer('panorama', {
             "pitch": -3,
             "yaw": 117,
             "type": "equirectangular",
-            "panorama": "fotos360/R0010046_20220505113141.JPG",
+            "panorama": "comprimidas/R0010046_20220505113141.jpg",
             "hotSpots": [
                 {
                     "pitch": -7.3,
@@ -102,7 +102,7 @@ pannellum.viewer('panorama', {
             "pitch": -3,
             "yaw": 117,
             "type": "equirectangular",
-            "panorama": "fotos360/R0010047_20220505113227.JPG",
+            "panorama": "comprimidas/R0010047_20220505113227.jpg",
             "hotSpots": [
                 {
                     "pitch": -4.9,
@@ -127,7 +127,7 @@ pannellum.viewer('panorama', {
             "pitch": -3,
             "yaw": 117,
             "type": "equirectangular",
-            "panorama": "fotos360/R0010048_20220505113431.JPG",
+            "panorama": "comprimidas/R0010048_20220505113431.jpg",
             "hotSpots": [
                 {
                     "pitch": -11.5,
@@ -152,7 +152,7 @@ pannellum.viewer('panorama', {
             "pitch": -3,
             "yaw": 117,
             "type": "equirectangular",
-            "panorama": "fotos360/R0010049_20220505113613.JPG",
+            "panorama": "comprimidas/R0010049_20220505113613.jpg",
             "hotSpots": [
                 {
                     "pitch": -9.0,
@@ -177,7 +177,7 @@ pannellum.viewer('panorama', {
             "pitch": -3,
             "yaw": 117,
             "type": "equirectangular",
-            "panorama": "fotos360/R0010051_20220505113933.JPG",
+            "panorama": "comprimidas/R0010051_20220505113933.jpg",
             "hotSpots": [
                 {
                     "pitch": -6.7,
@@ -202,7 +202,7 @@ pannellum.viewer('panorama', {
             "pitch": -3,
             "yaw": 117,
             "type": "equirectangular",
-            "panorama": "fotos360/R0010054_20220505114225.JPG",
+            "panorama": "comprimidas/R0010054_20220505114225.jpg",
             "hotSpots": [
                 {
                     "pitch": -9.2,
@@ -227,7 +227,7 @@ pannellum.viewer('panorama', {
             "pitch": -3,
             "yaw": 117,
             "type": "equirectangular",
-            "panorama": "fotos360/R0010055_20220505114507.JPG",
+            "panorama": "comprimidas/R0010055_20220505114507.jpg",
             "hotSpots": [
                 {
                     "pitch": -4.1,
@@ -252,7 +252,7 @@ pannellum.viewer('panorama', {
             "pitch": -3,
             "yaw": 117,
             "type": "equirectangular",
-            "panorama": "fotos360/R0010056_20220505114648.JPG",
+            "panorama": "comprimidas/R0010056_20220505114648.jpg",
             "hotSpots": [
                 {
                     "pitch": -4.7,
@@ -277,7 +277,7 @@ pannellum.viewer('panorama', {
             "pitch": -3,
             "yaw": 117,
             "type": "equirectangular",
-            "panorama": "fotos360/R0010058_20220505114855.JPG",
+            "panorama": "comprimidas/R0010058_20220505114855.jpg",
             "hotSpots": [
                 {
                     "pitch": -4.6,
@@ -302,7 +302,7 @@ pannellum.viewer('panorama', {
             "pitch": -3,
             "yaw": 117,
             "type": "equirectangular",
-            "panorama": "fotos360/R0010059_20220505115104.JPG",
+            "panorama": "comprimidas/R0010059_20220505115104.jpg",
             "hotSpots": [
                 {
                     "pitch": -12.9,
@@ -327,7 +327,7 @@ pannellum.viewer('panorama', {
             "pitch": -3,
             "yaw": 117,
             "type": "equirectangular",
-            "panorama": "fotos360/R0010060_20220505115226.JPG",
+            "panorama": "comprimidas/R0010060_20220505115226.jpg",
             "hotSpots": [
                 {
                     "pitch": -13.8,
@@ -359,7 +359,7 @@ pannellum.viewer('panorama', {
             "pitch": -3,
             "yaw": 117,
             "type": "equirectangular",
-            "panorama": "fotos360/R0010066_20220506091833.JPG",
+            "panorama": "comprimidas/R0010066_20220506091833.jpg",
             "hotSpots": [
                 {
                     "pitch": -13.8,
@@ -384,7 +384,7 @@ pannellum.viewer('panorama', {
             "pitch": -3,
             "yaw": 117,
             "type": "equirectangular",
-            "panorama": "fotos360/R0010061_20220505115345.JPG",
+            "panorama": "comprimidas/R0010061_20220505115345.jpg",
             "hotSpots": [
                 {
                     "pitch": -9.2,
@@ -408,7 +408,7 @@ pannellum.viewer('panorama', {
             "pitch": -3,
             "yaw": 117,
             "type": "equirectangular",
-            "panorama": "fotos360/R0010067_20220506091947.JPG",
+            "panorama": "comprimidas/R0010067_20220506091947.jpg",
             "hotSpots": [
                 {
                     "pitch": -8.7,
@@ -425,7 +425,7 @@ pannellum.viewer('panorama', {
             "pitch": -3,
             "yaw": 117,
             "type": "equirectangular",
-            "panorama": "fotos360/R0010062_20220505115428.JPG",
+            "panorama": "comprimidas/R0010062_20220505115428.jpg",
             "hotSpots": [
                 {
                     "pitch": -8.1,
@@ -457,7 +457,7 @@ pannellum.viewer('panorama', {
             "pitch": -3,
             "yaw": 117,
             "type": "equirectangular",
-            "panorama": "fotos360/R0010063_20220505115513.JPG",
+            "panorama": "comprimidas/R0010063_20220505115513.jpg",
             "hotSpots": [
                 {
                     "pitch": -9.7,
@@ -488,7 +488,7 @@ pannellum.viewer('panorama', {
             "pitch": -3,
             "yaw": 117,
             "type": "equirectangular",
-            "panorama": "fotos360/R0010041_20220505111018.JPG",
+            "panorama": "comprimidas/R0010041_20220505111018.jpg",
             "hotSpots": [
                 {
                     "pitch": -6.4,
@@ -505,7 +505,7 @@ pannellum.viewer('panorama', {
             "pitch": -3,
             "yaw": 117,
             "type": "equirectangular",
-            "panorama": "fotos360/R0010064_20220505115726.JPG",
+            "panorama": "comprimidas/R0010064_20220505115726.jpg",
             "hotSpots": [
                 {
                     "pitch": -4.6,
